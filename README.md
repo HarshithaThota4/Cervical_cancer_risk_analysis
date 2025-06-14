@@ -50,7 +50,7 @@ The final product includes a full-featured interactive dashboard, predictive ana
 
 ## 📈 Dashboard Preview
 
-> 📸 _Replace this image with your own screenshot (upload to `images/` folder)_
+
 
 ![Dashboard Preview]()
 

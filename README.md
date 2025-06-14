@@ -31,10 +31,10 @@ The final product includes a full-featured interactive dashboard, predictive ana
 
 | File / Folder | Description |
 |---------------|-------------|
-| `cancer_data.csv` | Cleaned dataset used in analysis and SQL |
+| `cleaned_cervical_cancer_data.csv` | Cleaned dataset used in analysis and SQL |
 | `cervical_cancer_notebook.ipynb` | Python notebook with EDA + prediction model |
-| `cervical_cancer_dashboard.pbix` | Power BI dashboard with KPIs & visuals |
-| `images/` | Screenshots of dashboard for README |
+| `cervical cancer dashboard.pbix` | Power BI dashboard with KPIs & visuals |
+| `images` | Screenshots of dashboard for README |
 | `README.md` | Project overview and documentation |
 
 ---
@@ -52,7 +52,7 @@ The final product includes a full-featured interactive dashboard, predictive ana
 
 
 
-![Dashboard Preview]()
+![Dashboard Preview](dashboard_preview.png.png)
 
 ---
 
